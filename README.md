@@ -1,1 +1,1 @@
-# appium-mobile
+# katalonmobile
